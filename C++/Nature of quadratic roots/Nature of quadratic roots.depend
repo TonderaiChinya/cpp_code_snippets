@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555747941 source:c:\users\user\documents\c++\nature of quadratic roots\main.cpp
+	<iostream>
+	<math.h>
+
